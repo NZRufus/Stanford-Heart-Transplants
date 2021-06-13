@@ -3,7 +3,7 @@
 
 Data was obtained from https://stat.ethz.ch/R-manual/R-devel/library/survival/html/heart.html and cleaned using Pandas/Numpy.
 
-## Aims and Objectives and Methods##
+## Aims and Objectives and Methods ##
 
 Initial Keplan Meier survival analysis of patients in 60's/70's who had heart surgery to try and determine factors that might increase/reduce survival rates. Used COX regression analysis techniques.
 
